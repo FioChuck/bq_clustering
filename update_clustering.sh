@@ -1,0 +1,1 @@
+-- bq update --clustering_fields=tags stackoverflow.example_table
